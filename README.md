@@ -36,7 +36,7 @@ Incorporate buttons, bookmarks, and drill-through filters for a seamless user ex
 Establish rules for report access and editing privileges, ensuring controlled and secure usage.
 
 #### Screenshots/Demo:
-[Provide screenshots or a link to a demo showcasing the visualizations and features of your Power BI project.]
+![Report View](https://github.com/sachink45/Adventure-Works-Bike-Shop-Sale-Analysis/blob/main/Report_Snap.png)
 
 #### License:
 This project is released under the [License Name] License. See the LICENSE.md file for details.
@@ -45,7 +45,7 @@ This project is released under the [License Name] License. See the LICENSE.md fi
 Give credit to any external libraries, tools, or resources that inspired or were utilized in this project.
 
 ### Contact:
-- For questions or further information, please contact:
+For questions or further information, please contact:
 - Name: Sachin Kapase
 - Email: sachinkapase6125@gmail.com
 
