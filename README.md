@@ -38,9 +38,6 @@ Establish rules for report access and editing privileges, ensuring controlled an
 #### Screenshots/Demo:
 ![Report View](https://github.com/sachink45/Adventure-Works-Bike-Shop-Sale-Analysis/blob/main/Report_Snap.png)
 
-#### License:
-This project is released under the [License Name] License. See the LICENSE.md file for details.
-
 #### Acknowledgments:
 Give credit to any external libraries, tools, or resources that inspired or were utilized in this project.
 
